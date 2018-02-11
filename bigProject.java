@@ -1,6 +1,15 @@
 import java.util.*;
 import java.text.*;
 class bigProject {
+	
+	/*
+	NAMA      : MUHAMMAD ALIYUL MURTADLO
+	USERNAME  : mmdiyul
+	E-MAIL    : muhammadaliyulm@gmail.com
+	NIM       : 1741720031
+	KELAS     : TI - 1F POLITEKNIK NEGERI MALANG
+	*/
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
